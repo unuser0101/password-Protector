@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anonymous/CLionProjects/passwordProtector/existing_File.c
+function_header.h
+/home/anonymous/CLionProjects/passwordProtector/function_header.h
+stdio.h
+-
+stdbool.h
+-
+unistd.h
+-
+
+/home/anonymous/CLionProjects/passwordProtector/function_header.h
+
